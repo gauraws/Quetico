@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Quetico</string>
+    <string name="settings_sort_by_label">Sort by</string>
+    <string name="settings_sort_by_key">sort_by</string>
+    <string name="settings_sort_by_top_label">Top</string>
+    <string name="settings_sort_by_top_value">top</string>
+    <string name="settings_sort_by_latest_label">Latest</string>
+    <string name="settings_sort_by_latest_value">latest</string>
+    <string name="settings_source_label">Source</string>
+    <string name="settings_source_key">source</string>
+
+
+    <string name="source_ars_technica_label">Ars Technica</string>
+    <string name="source_business_insider_label">Business Insider</string>
+    <string name="source_cnn_label">CNN</string>
+    <string name="source_daily_mail_label">Daily Mail</string>
+    <string name="source_engadget_label">Engadget</string>
+    <string name="source_fortune_label">Fortune</string>
+    <string name="source_google_news_label">Google News</string>
+    <string name="source_hacker_news_label">Hacker News</string>
+    <string name="source_national_geographic_label">National Geographic</string>
+    <string name="source_polygon_label">Polygon</string>
+    <string name="source_recode_label">Recode</string>
+    <string name="source_t3n_label">T3n</string>
+    <string name="source_tech_radar_label">TechRadar</string>
+    <string name="source_the_guardian_label">The Guardian (UK)</string>
+    <string name="source_the_hindu_label">The Hindu</string>
+    <string name="source_the_huffington_post_label">The Huffington Post</string>
+    <string name="source_the_nyt_label">The New York Times</string>
+    <string name="source_the_next_web_label">The Next Web</string>
+    <string name="source_the_telegraph_label">The Telegraph</string>
+    <string name="source_the_times_of_india_label">The Times of India</string>
+    <string name="source_the_verge_label">The Verge</string>
+
+
+    <string name="source_ars_technica_value">ars-technica</string>
+    <string name="source_business_insider_value">business-insider</string>
+    <string name="source_cnn_value">cnn</string>
+    <string name="source_daily_mail_value">daily-mail</string>
+    <string name="source_engadget_value">engadget</string>
+    <string name="source_fortune_value">fortune</string>
+    <string name="source_google_news_value">google-news</string>
+    <string name="source_hacker_news_value">hacker-news</string>
+    <string name="source_national_geographic_value">national-geographic</string>
+    <string name="source_polygon_value">polygon</string>
+    <string name="source_tech_radar_value">techradar</string>
+    <string name="source_the_guardian_value">the-guardian-uk</string>
+    <string name="source_the_hindu_value">the-hindu</string>
+    <string name="source_the_huffington_post_value">the-huffington-post</string>
+    <string name="source_the_nyt_value">the-new-york-times</string>
+    <string name="source_the_next_web_value">the-next-web</string>
+    <string name="source_the_telegraph_value">the-telegraph</string>
+    <string name="source_the_times_of_india_value">the-times-of-india</string>
+    <string name="source_the_verge_value">the-verge</string>
+
+    <!-- For number of news articles to be viewed -->
+    <string name="articles_default">10</string>
+    <string name="number_articles_dialog_text">Number of articles?</string>
+
+    <!-- Settings number of articles -->
+    <string name="settings_number_articles_label">Enter number of articles</string>
+    <string name="settings_number_articles_key" translatable="false">number_of_articles</string>
+    <string name="settings_number_articles_default" translatable="false">@string/articles_default</string>
+    <string name="news_image">News Image</string>
+    <string name="authored_by">By</string>
+
+
+
+
+</resources>

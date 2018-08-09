@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="source_labels">
+        <item>@string/source_ars_technica_label</item>
+        <item>@string/source_business_insider_label</item>
+        <item>@string/source_cnn_label</item>
+        <item>@string/source_daily_mail_label</item>
+        <item>@string/source_engadget_label</item>
+        <item>@string/source_fortune_label</item>
+        <item>@string/source_google_news_label</item>
+        <item>@string/source_hacker_news_label</item>
+        <item>@string/source_national_geographic_label</item>
+        <item>@string/source_tech_radar_label</item>
+        <item>@string/source_the_guardian_label</item>
+        <item>@string/source_the_hindu_label</item>
+        <item>@string/source_the_huffington_post_label</item>
+        <item>@string/source_the_nyt_label</item>
+        <item>@string/source_the_next_web_label</item>
+        <item>@string/source_the_telegraph_label</item>
+        <item>@string/source_the_times_of_india_label</item>
+        <item>@string/source_the_verge_label</item>
+
+    </string-array>
+
+    <string-array name="source_values">
+        <item>@string/source_ars_technica_value</item>
+        <item>@string/source_business_insider_value</item>
+        <item>@string/source_cnn_value</item>
+        <item>@string/source_daily_mail_value</item>
+        <item>@string/source_engadget_value</item>
+        <item>@string/source_fortune_value</item>
+        <item>@string/source_google_news_value</item>
+        <item>@string/source_hacker_news_value</item>
+        <item>@string/source_national_geographic_value</item>
+        <item>@string/source_tech_radar_value</item>
+        <item>@string/source_the_guardian_value</item>
+        <item>@string/source_the_hindu_value</item>
+        <item>@string/source_the_huffington_post_value</item>
+        <item>@string/source_the_nyt_value</item>
+        <item>@string/source_the_next_web_value</item>
+        <item>@string/source_the_telegraph_value</item>
+        <item>@string/source_the_times_of_india_value</item>
+        <item>@string/source_the_verge_value</item>
+
+    </string-array>
+
+    <string-array name="settings_sort_by_labels">
+        <item>@string/settings_sort_by_top_label</item>
+        <item>@string/settings_sort_by_latest_label</item>
+    </string-array>
+    <string-array name="settings_sort_by_values">
+        <item>@string/settings_sort_by_top_value</item>
+        <item>@string/settings_sort_by_latest_value</item>
+    </string-array>
+
+
+</resources>
